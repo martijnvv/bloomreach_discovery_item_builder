@@ -1,5 +1,5 @@
 homepage: "https://www.martijnvanvreeden.nl"
 documentation: "https://github.com/martijnvv/bloomreach_discovery_item_builder"
 versions:
-  - sha: c3d85b258af0640162605dc704fa1420e26d52fa
+  - sha: 7f7ccac3ebb19a1e982dc06a2d331f0aaaee9e45
     changeNotes: Initial release.

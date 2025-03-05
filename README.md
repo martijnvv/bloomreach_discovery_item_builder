@@ -5,7 +5,7 @@ The structure is setup to work with the GA4 data structure out of the box. Howev
 
 The items object is used in Bloomreach Discovery with the conversion event: [Official documentation](https://documentation.bloomreach.com/discovery/docs/conversion-page-view-pixel)
  
-## options to populate the item object
+## Options to populate the item object
 You can select the following options
 * GA4 Standard Configuration (when you want to use the GA4 recommended dataLayer object format)
 * Custom configuration (if you wish to use a different dataLayer format)

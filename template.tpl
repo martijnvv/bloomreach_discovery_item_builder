@@ -6,6 +6,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Bloomreach Discovery item builder",
+  "categories": ["MRKETING", "PERSONALIZATION"],
   "description": "We populate the items in the order in the format for Bloomreach Discovery",
   "containerContexts": [
     "WEB"

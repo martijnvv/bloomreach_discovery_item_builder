@@ -5,8 +5,8 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Bloomreach item builder",
-  "description": "We populate the items in the order in the format for Bloomreach",
+  "displayName": "Bloomreach Discovery item builder",
+  "description": "We populate the items in the order in the format for Bloomreach Discovery",
   "containerContexts": [
     "WEB"
   ]

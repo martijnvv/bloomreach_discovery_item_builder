@@ -1,9 +1,11 @@
-homepage: "https://www.martijnvanvreeden.nl"
+homepage: "https://martijnvanvreeden.nl"
 documentation: "https://github.com/martijnvv/bloomreach_discovery_item_builder"
 versions:
   # Latest version
   - sha: 72fe0a833b4a7b09dec79278f67fbe7284f54aaa
-    changeNotes: Fix bug with JSON format and added categories
+    changeNotes: Fix homepage reference
   # Older versions  
+  - sha: 72fe0a833b4a7b09dec79278f67fbe7284f54aaa
+    changeNotes: Fix bug with JSON format and added categories
   - sha: 7f7ccac3ebb19a1e982dc06a2d331f0aaaee9e45
     changeNotes: Initial release.

@@ -2,7 +2,7 @@ homepage: "https://martijnvanvreeden.nl"
 documentation: "https://github.com/martijnvv/bloomreach_discovery_item_builder"
 versions:
   # Latest version
-  - sha: 72fe0a833b4a7b09dec79278f67fbe7284f54aaa
+  - sha: 280be9c75390c9dd883844e220053d0845a1e841
     changeNotes: Fix homepage reference
   # Older versions  
   - sha: 72fe0a833b4a7b09dec79278f67fbe7284f54aaa
